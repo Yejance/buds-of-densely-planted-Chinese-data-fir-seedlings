@@ -1,0 +1,2 @@
+# buds-of-densely-planted-Chinese-data-fir-seedlings
+The fir seedling terminal bud dataset consists of 173 images of size 1200*1200, containing a total of 25,938 annotated boxes of different sizes, occlusions, defects, angles, and lighting variations; the aspect ratios of the annotated boxes range from 0.8 to 1.6, the overlaps range from 0 to 0.25, and the number of pixels in length and width generally ranges from 12 to 48
